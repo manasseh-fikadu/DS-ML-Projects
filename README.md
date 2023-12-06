@@ -21,7 +21,6 @@ Feel free to explore, learn, and even contribute if you find something interesti
 7. [Stroke Prediction](https://github.com/manasseh-fikadu/DS-ML-Projects/tree/main/Stroke%20Prediction)
 8. [Toxic Comment Classification](https://github.com/manasseh-fikadu/DS-ML-Projects/tree/main/Toxic%20Comment%20Classification%20Project)
 9. [COVID 19 Analysis](https://github.com/manasseh-fikadu/DS-ML-Projects/blob/main/covid_in_south_korea.ipynb)
-   ...
    
 ## How to Use
 
